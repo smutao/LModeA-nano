@@ -2,7 +2,7 @@
 LModeA-nano: Local Vibrational Mode Analysis for Solids and Molecules
 as a PyMOL Plugin
 
-Ver 1.0.0 - Feb 15, 2022
+Ver 1.0.1 - Feb 26, 2022
 
 Author: Yunwen Tao, Ph.D.
 
@@ -1795,7 +1795,7 @@ def make_dialog():
                if lab >= 1 and lab < 3 :
                   lab = lab + 1
                   continue
-               if lab >= 3 and lab < (3+natom):
+               if lab >= 3 and lab < (3+natom) and len(global_mass) < natom :
                   #print(line) 
                   elem.append(line.split()[1])
                   e = line.split()[1]
@@ -3068,7 +3068,7 @@ def make_dialog():
         8     8     8 8    8 8    8 8.      .P    8           8  `b8 8    8 8   8 8    8 \n\
         8oooo 8     8 `YooP' `YooP' `Yooo' .P     8           8   `8 `YooP8 8   8 `YooP' \n\n\n"
                 
-        authorship = " "*39+" Ver 1.0.0 \n"+" "*38+" Feb 15, 2022 \n"+" "*28+" Developed by: Yunwen Tao, Ph.D.\n" 
+        authorship = " "*39+" Ver 1.0.1 \n"+" "*38+" Feb 26, 2022 \n"+" "*28+" Developed by: Yunwen Tao, Ph.D.\n" 
 
         return logo,authorship
 
