@@ -7,7 +7,7 @@ Ver 1.0.1 - Feb 26, 2022
 Author: Yunwen Tao, Ph.D.
 
 References:
-1) LModeA-nano: A PyMOL Plugin for Calculating Bond Strength in Solids, Surfaces, and Molecules via Local Vibrational Mode Analysis, Y. Tao, W. Zou, S. Nanayakkara, and E. Kraka, J. Chem. Theory Comput., in press (2022)
+1) LModeA-nano: A PyMOL Plugin for Calculating Bond Strength in Solids, Surfaces, and Molecules via Local Vibrational Mode Analysis, Y. Tao, W. Zou, S. Nanayakkara, and E. Kraka, J. Chem. Theory Comput., 18, 1821-1837 (2022)
 2) In Situ Measure of Intrinsic Bond Strength in Crystalline Structures: Local Vibrational Mode Theory for Periodic Systems, Y. Tao, W. Zou, D. Sethio, N. Verma, Y. Qiu, C. Tian, D. Cremer, and E. Kraka, J. Chem. Theory Comput., 15, 1761-1776 (2019)
 
 License: BSD-2-Clause
