@@ -1,3 +1,5 @@
+![logo](https://lmodea-nano.readthedocs.io/en/latest/_static/logo.png)
+
 # LModeA-nano
 
 LModeA-nano can be used to quantify the chemical bond strength in various chemical systems including solids, surfaces and molecules, based on local vibrational mode theory. 
