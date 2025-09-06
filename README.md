@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/smutao/LModeA-nano)
+
 ![logo](https://lmodea-nano.readthedocs.io/en/latest/_static/logo.png)
 
 # LModeA-nano
